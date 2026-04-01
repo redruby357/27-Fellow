@@ -1,0 +1,130 @@
+Index,Category,Clothing_item,Fabric_weight,Layer_Type,Clo 
+1,Underwear,Bra,Lightweight,Base,0.01
+2,Underwear,Women's panties,Lightweight,Base,0.03
+3,Underwear,Men's briefs,Lightweight,Base,0.04
+4,Underwear,Men's boxers,Lightweight,Base,0.06
+5,Underwear,Men's boxer briefs,Lightweight,Base,0.05
+6,Underwear,Camisole,Lightweight,Base,0.06
+7,Underwear,Half-slip,Lightweight,Base,0.14
+8,Underwear,Full slip,Lightweight,Base,0.16
+9,Underwear,T-shirt (undershirt),Lightweight,Base,0.08
+10,Underwear,Thermal singlet,Midweight,Base,0.10
+11,Underwear,Long underwear top,Lightweight,Base,0.15
+12,Underwear,Long underwear top,Heavyweight,Base,0.20
+13,Underwear,Long underwear bottoms,Lightweight,Base,0.15
+14,Underwear,Long underwear bottoms,Heavyweight,Base,0.20
+15,Underwear,Lingerie/Teddy,Lightweight,Base,0.05
+16,Tops,Crop top,Lightweight,Base,0.04
+17,Tops,Halter top,Lightweight,Base,0.05
+18,Tops,Tank top,Lightweight,Base,0.06
+19,Tops,Sleeveless blouse,Lightweight,Mid,0.07
+20,Tops,Short-sleeve T-shirt,Lightweight,Mid,0.08
+21,Tops,Short-sleeve T-shirt,Heavyweight,Mid,0.10
+22,Tops,Polo shirt,Midweight,Mid,0.11
+23,Tops,Short-sleeve button-down,Midweight,Mid,0.12
+24,Tops,Short-sleeve blouse,Lightweight,Mid,0.12
+25,Tops,Long-sleeve T-shirt,Midweight,Mid,0.15
+26,Tops,Long-sleeve blouse,Lightweight,Mid,0.15
+27,Tops,Tunic,Midweight,Mid,0.18
+28,Tops,Long-sleeve Henley,Midweight,Mid,0.18
+29,Tops,Long-sleeve dress shirt,Midweight,Mid,0.20
+30,Tops,Turtleneck,Lightweight,Mid,0.22
+31,Tops,Turtleneck,Heavyweight,Mid,0.34
+32,Tops,Long-sleeve flannel shirt,Heavyweight,Mid,0.30
+33,Tops,Sweatshirt,Lightweight,Mid,0.25
+34,Tops,Sweatshirt,Heavyweight,Mid,0.35
+35,Tops,Hoodie,Heavyweight,Mid,0.37
+36,Tops,Hoodie,Lightweight,Mid,0.27
+37,Bottoms,Short-shorts,Lightweight,Mid,0.04
+38,Bottoms,Swim trunks,Lightweight,Mid,0.07
+39,Bottoms,Walking shorts,Midweight,Mid,0.08
+40,Bottoms,Cargo shorts,Heavyweight,Mid,0.11
+41,Bottoms,Skirt (mini),Lightweight,Mid,0.08
+42,Bottoms,Skirt (knee-length),Lightweight,Mid,0.14
+43,Bottoms,Skirt (knee-length),Heavyweight,Mid,0.23
+44,Bottoms,Skirt (ankle-length),Lightweight,Mid,0.18
+45,Bottoms,Skirt (ankle-length),Heavyweight,Mid,0.28
+46,Bottoms,Capris / Cropped pants,Midweight,Mid,0.10
+47,Bottoms,Culottes,Lightweight,Mid,0.12
+48,Bottoms,Leggings,Lightweight,Base,0.10
+49,Bottoms,Leggings (fleece-lined),Heavyweight,Base,0.20
+50,Bottoms,Trousers (linen),Lightweight,Mid,0.15
+51,Bottoms,Trousers (dress),Midweight,Mid,0.25
+52,Bottoms,Trousers (corduroy),Heavyweight,Mid,0.28
+53,Bottoms,Jeans,Lightweight,Mid,0.20
+54,Bottoms,Jeans,Heavyweight,Mid,0.25
+55,Bottoms,Cargo pants,Midweight,Mid,0.22
+56,Bottoms,Track pants,Midweight,Mid,0.18
+57,Bottoms,Sweatpants,Lightweight,Mid,0.22
+58,Bottoms,Sweatpants,Heavyweight,Mid,0.28
+59,Bottoms,Overalls,Heavyweight,Mid,0.35
+60,Dresses & Suits,Romper,Lightweight,Mid,0.12
+61,Dresses & Suits,Dress (sleeveless),Lightweight,Mid,0.15
+62,Dresses & Suits,Shift dress,Midweight,Mid,0.16
+63,Dresses & Suits,Dress (short-sleeve),Midweight,Mid,0.20
+64,Dresses & Suits,Evening gown,Midweight,Mid,0.20
+65,Dresses & Suits,Business dress,Midweight,Mid,0.25
+66,Dresses & Suits,Dress (long-sleeve),Heavyweight,Mid,0.35
+67,Dresses & Suits,Jumpsuit (short),Midweight,Mid,0.20
+68,Dresses & Suits,Jumpsuit (long),Heavyweight,Mid,0.30
+69,Sweaters,Sweater vest,Lightweight,Mid,0.10
+70,Sweaters,Sweater vest,Heavyweight,Mid,0.15
+71,Sweaters,V-neck sweater,Lightweight,Mid,0.15
+72,Sweaters,V-neck sweater,Heavyweight,Mid,0.25
+73,Sweaters,Cardigan,Lightweight,Mid,0.18
+74,Sweaters,Cardigan,Heavyweight,Mid,0.30
+75,Sweaters,Crewneck sweater,Lightweight,Mid,0.18
+76,Sweaters,Crewneck sweater,Heavyweight,Mid,0.35
+77,Sweaters,Fleece pullover,Heavyweight,Mid,0.30
+78,Sweaters,Cable-knit sweater,Heavyweight,Mid,0.40
+79,Outerwear,Vest,Lightweight,Outer,0.13
+80,Outerwear,Windbreaker,Lightweight,Outer,0.15
+81,Outerwear,Raincoat,Midweight,Outer,0.18
+82,Outerwear,Vest (padded / quilted),Heavyweight,Outer,0.30
+83,Outerwear,Light spring jacket,Midweight,Outer,0.20
+84,Outerwear,Denim jacket,Heavyweight,Outer,0.25
+85,Outerwear,Suit jacket / Blazer,Lightweight,Outer,0.36
+86,Outerwear,Leather jacket,Heavyweight,Outer,0.35
+87,Outerwear,Suit jacket / Blazer,Heavyweight,Outer,0.44
+88,Outerwear,Trench coat,Midweight,Outer,0.35
+89,Outerwear,Winter parka,Lightweight,Outer,0.40
+90,Outerwear,Ski jacket,Heavyweight,Outer,0.55
+91,Outerwear,Overcoat ,Heavyweight,Outer,0.60
+92,Outerwear,Down jacket,Heavyweight,Outer,0.65
+93,Outerwear,Winter parka,Heavyweight,Outer,0.70
+94,Footwear,Sheer tights,Lightweight,Base,0.02
+95,Footwear,Ankle socks,Lightweight,Base,0.02
+96,Footwear,Flip-flops,Lightweight,Footwear,0.02
+97,Footwear,Sandals ,Midweight,Footwear,0.03
+98,Footwear,Ballet Pumps,Midweight,Footwear,0.03
+99,Footwear,Crew socks,Midweight,Base,0.04
+100,Footwear,Sneakers ,Midweight,Footwear,0.04
+101,Footwear,Dress shoes,Midweight,Footwear,0.04
+102,Footwear,Loafers,Midweight,Footwear,0.04
+103,Footwear,Opaque tights,Midweight,Base,0.05
+104,Footwear,Knee-high socks,Midweight,Base,0.06
+105,Footwear,Ankle boots,Heavyweight,Footwear,0.06
+106,Footwear,Thick wool socks,Heavyweight,Base,0.08
+107,Footwear,Thermal tights,Heavyweight,Base,0.10
+108,Footwear,Knee-high boots,Heavyweight,Footwear,0.10
+109,Footwear,Winter / Snow boots,Heavyweight,Footwear,0.15
+110,Accessories,Baseball cap,Lightweight,Accessory,0.01
+111,Accessories,Sun hat,Lightweight,Accessory,0.02
+112,Accessories,Earmuffs,Midweight,Accessory,0.02
+113,Accessories,Scarf,Lightweight,Accessory,0.04
+114,Accessories,Gloves,Lightweight,Accessory,0.04
+115,Accessories,Beanie ,Heavyweight,Accessory,0.05
+116,Accessories,Neck gaiter,Midweight,Accessory,0.05
+117,Accessories,Gloves (winter),Heavyweight,Accessory,0.08
+118,Accessories,Scarf (wool),Heavyweight,Accessory,0.10
+119,Accessories,Mittens,Heavyweight,Accessory,0.10
+120,Full Ensemble,Athletic wear,Mixed,Ensemble,0.35
+121,Full Ensemble,Light summer dress + sandals,Lightweight,Ensemble,0.25
+122,Full Ensemble,T-shirt + shorts + sandals,Lightweight,Ensemble,0.30
+123,Full Ensemble,T-shirt + jeans + sneakers,Midweight,Ensemble,0.50
+124,Full Ensemble,Long-sleeve shirt + jeans + sneakers,Midweight,Ensemble,0.60
+125,Full Ensemble,Dress shirt + dress pants + dress shoes,Midweight,Ensemble,0.65
+126,Full Ensemble,Sweater + jeans + boots,Heavyweight,Ensemble,0.85
+127,Full Ensemble,Standard business suit,Midweight,Ensemble,1.00
+128,Full Ensemble,Winter walk,Heavyweight,Ensemble,1.50
+129,Full Ensemble,Extreme winter outfit,Heavyweight,Ensemble,2.00
