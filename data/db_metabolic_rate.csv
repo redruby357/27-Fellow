@@ -1,0 +1,49 @@
+Index,Category,Activity,Intensity_level,met
+1,Resting,Sleeping,Sedentary,0.7
+2,Resting,Reclining,Sedentary,0.8
+3,Resting,Seating,Sedentary,1.0
+4,Resting,Standing,Sedentary,1.2
+5,Light Work,Reading,Sedentary,1.0
+6,Light Work,Writing,Sedentary,1.0
+7,Light Work,Typing on a computer,Sedentary,1.1
+8,Walking,Walking slowly (3.2 km/h),Light,2.0
+9,Walking,Walking moderately (4.8 km/h),Light,2.6
+10,Walking,Walking briskly (6.4 km/h),Moderate,3.8
+11,Walking,Walking fast (7.2 km/h),Moderate,4.5
+12,Walking,Walking upstairs,Vigorous,8.0
+13,Walking,Walking downstairs,Moderate,3.0
+14,Household Chores,Cooking,Light,1.6
+15,Household Chores,Washing dishes,Light,1.6
+16,Household Chores,Ironing,Light,1.8
+17,Household Chores,Vacuuming,Light,2.0
+18,Household Chores,Mopping,Light,2.5
+19,Household Chores,Making beds,Light,2.5
+20,Household Chores,Heavy cleaning,Moderate,3.0
+21,Labor,Light machine work,Light,2.0
+22,Labor,Bricklaying,Moderate,3.0
+23,Labor,Heavy vehicle driving (Tractor),Moderate,3.2
+24,Labor,Carpentry,Moderate,4.0
+25,Labor,Heavy manual labor (Digging),Moderate,5.5
+26,Labor,Chopping wood,Vigorous,7.0
+27,Leisure & Entertainment,Watching TV,Sedentary,1.0
+28,Leisure & Entertainment,Playing cards / Board games,Sedentary,1.1
+29,Leisure & Entertainment,Playing musical instrument,Light,1.8
+30,Leisure & Entertainment,Dancing (Leisure),Light,3.0
+31,Leisure & Entertainment,Dancing (Vigorous),Moderate,5.0
+32,Exercise,Stretching,Light,2.5
+33,Exercise,Weightlifting (Leisure),Light,3.5
+34,Exercise,Weightlifting (Vigorous),Vigorous,6.0
+35,Exercise,Gymnastics,Moderate,4.0
+36,Exercise,Tennis (Leisure),Moderate,4.0
+37,Exercise,Tennis (Vigorous),Vigorous,7.0
+38,Exercise,Ice skating,Moderate,5.0
+39,Exercise,Basketball,Vigorous,6.0
+40,Exercise,Calisthenics (Leisure),Moderate,4.5
+41,Exercise,Calisthenics (Vigorous),Vigorous,8.0
+42,Exercise,Swimming (Leisure),Moderate,5.0
+43,Exercise,Swimming (Vigorous),Vigorous,8.0
+44,Exercise,Skiing,Vigorous,7.0
+45,Exercise,Cycling (Leisure),Light,3.5
+46,Exercise,Cycling (Vigorous),Vigorous,8.0
+47,Exercise,Jogging (8.0 km/h),Vigorous,7.5
+48,Exercise,Running (11.2 km/h),Extreme,11.5
